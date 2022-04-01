@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OlehSmirnov
+- 👋 Hi, I’m Oleh Smirnov
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning React.js
 - 📫 How to reach me: oleg0031@gmail.com
